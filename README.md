@@ -17,7 +17,7 @@ streamlit
 replicate
 ```
 
-## Getting your own Replicate API token
+## Getting your own Replicate API token - REPLICATE_API_TOKEN = "r8_3ctOcBhUdH70ETcDP8eMuhR1cVqaZd43P6JbC"
 
 To use this app, you'll need to get your own [Replicate](https://replicate.com/) API token.
 
